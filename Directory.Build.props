@@ -1,0 +1,12 @@
+<Project>
+
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <PropertyGroup>
+   <Authors>Matej Zdolšek</Authors>
+   <Company>cquants.com</Company>
+  </PropertyGroup>
+
+</Project>
